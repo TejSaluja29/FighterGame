@@ -2,12 +2,12 @@
 
 2 player fighter game using pygame 
 
-## installation
+## Installation
 
 - git clone (repo URL)
 - pip install pygame
 
-## how to run
+## How to run
 
  - python main.py
 
@@ -21,12 +21,12 @@
 ### On this screen:
 <img src= "https://github.com/user-attachments/assets/fad3613d-c981-4916-959c-5d587213ad47" width=600>
 
-#### player 1 contols:
+#### Player 1 contols:
 -   right: D
 -   left: A
 -   Jump: W
 -   Attack: Q or E
-#### player 2 controls:
+#### Player 2 controls:
 -   left: left arrow
 -   right: right arrow
 -   jump: up arrow
@@ -35,5 +35,5 @@
 ## Dependencies
 - pygame
 
-## contributions
+## Contributions
 - If you have any improvements for me, feel free to contact me or make a Pull Request. The gameplay is still a little wonky right now so I'll appreciate any kind of contribution. 
